@@ -1,5 +1,7 @@
 # Project_sign_language_detection
 #Realtime_sign_language_detection using CNN
+
+
 Sign language is a crucial means of communication for individuals with hearing and speech impairments. However, most people are not familiar with sign language, creating a communication barrier. This project aims to bridge that gap by developing a real-time sign language detection system using deep learning.
 
 In this project, a Convolutional Neural Network (CNN) model is trained to recognize 10 distinct hand signs captured through images. These signs include commonly used gestures such as:
