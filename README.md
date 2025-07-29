@@ -1,5 +1,5 @@
-# Project_sign_language_detection
-#Realtime_sign_language_detection using CNN
+# Realtime_sign_language_detection using CNN
+
 
 
 Sign language is a crucial means of communication for individuals with hearing and speech impairments. However, most people are not familiar with sign language, creating a communication barrier. This project aims to bridge that gap by developing a real-time sign language detection system using deep learning.
